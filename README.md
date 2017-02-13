@@ -1,2 +1,2 @@
 ##Hello there!
-![dragu](http://imgur.com/XoKTMgZ)
+![dragu](http://i.imgur.com/XoKTMgZ.png)
