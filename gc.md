@@ -2,12 +2,11 @@
 
 ###Laborator
 [Acoperirea convexa a unui poligon arbitrar](https://drive.google.com/open?id=0ByjzKDd7cc_gN1BTRWs1S19FNEE)
-
-**Input:** Un poligon P din R^2.
-
-**Output:** Varfurile acoperirii convexe Conv(P).
+```markdown
+Input: Un poligon P din R^2.
+Output: Varfurile acoperirii convexe Conv(P).
 Reprezentare grafica.
-
+```
 
 ###Link-uri utile
 - Determinarea [intersectiilor](https://www.hackerearth.com/practice/math/geometry/line-intersection-using-b1entley-ottmann-algorithm/tutorial/) de segmente (algoritmul Bentley Ottmann - linie de baleiere)
