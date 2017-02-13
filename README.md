@@ -1,2 +1,1 @@
-##Hello there!
-![dragu](http://i.imgur.com/XoKTMgZ.png)
+<img src="http://i.imgur.com/XoKTMgZ.png" width="408">
