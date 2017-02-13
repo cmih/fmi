@@ -13,5 +13,5 @@ Reprezentare grafica.
 - [Subdiviziuni planare](http://www.cs.uu.nl/docs/vakken/ga/slides2b.pdf)
 - [Harti](http://cglab.ca/~cdillaba/comp5008/mulmuley.html) trapezoidale (graf)
 
-###Subiecte examen
+###Subiecte examen (_identice cu cele din suportul de curs_)
 - [2016](https://drive.google.com/open?id=0ByjzKDd7cc_gaDZOWUxfX29SUms)
