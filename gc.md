@@ -4,6 +4,7 @@
 [Acoperirea convexa a unui poligon arbitrar](https://drive.google.com/open?id=0ByjzKDd7cc_gN1BTRWs1S19FNEE)
 
 **Input:** Un poligon P din R^2.
+
 **Output:** Varfurile acoperirii convexe Conv(P).
 Reprezentare grafica.
 
